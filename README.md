@@ -1,4 +1,4 @@
-# A app-desktop Flet app
+# app-desktop Flet app
 
 Inidicalmente para que nuestro aplicativo funcione debemos iniciar nuestra API.
 
