@@ -1,12 +1,17 @@
 # A app-desktop Flet app
 
-An example of a counter Flet app.
+Inidicalmente para que nuestro aplicativo funcione debemos iniciar nuestra API.
 
-Para correr el aplicativo nos ubicamos en la carpeta donde se encuentra nuestro proyecto y correcmos el siguiente comando:
+Para esto nos ubicamos desde una terminal en la direccion donde se encuentre nuestra API.
+
+Ejecutamos el siguiente comando: php artisan serve.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Para correr el aplicativo de escritorio nos ubicamos desde una terminal en la direccion donde se encuentra nuestro proyecto y correcmos el siguiente comando:
 
 .venv\Scripts\activate
 
-Posetrior ejecutamos el siguiente comando:
-```
+Posetrior a esto para correr nuestro aplicativo ejecutamos el siguiente comando:
+
 flet run 
-```
